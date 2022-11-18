@@ -49,7 +49,7 @@
     "eslint-plugin-react": "^7.14.3",
     "file-loader": "^4.2.0",
     "html-loader": "^0.5.5",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "husky": "^3.0.5",
     "jest": "^24.9.0",
     "jest-cli": "^24.9.0",
@@ -63,7 +63,7 @@
     "style-loader": "^1.0.0",
     "terser-webpack-plugin": "^1.4.1",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0",
     "webpack-merge": "^4.2.2"
   },
